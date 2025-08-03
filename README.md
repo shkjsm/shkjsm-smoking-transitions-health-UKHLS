@@ -32,7 +32,7 @@ Fixed-Effects Models as a sensitivity analysis to account for time-invariant ind
 
 Subgroup Analyses to explore effects across different demographic groups.
 
-📂 Project Structure
+Project Structure
 The project is organized into a sequential pipeline of R scripts, designed to be run in order. The main directories are:
 
 /output_data/: Stores intermediate, cleaned datasets (.rds files) that are passed between scripts.
