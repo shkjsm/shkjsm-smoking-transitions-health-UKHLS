@@ -1,6 +1,7 @@
 The Effect of Smokers Transitioning to E-cigarettes on Physical and Mental Health: An Emulated Trial using Longitudinal Data
 
 Project Overview
+
 This repository contains the full R code and analysis for a dissertation project investigating the health impacts of smokers switching to e-cigarettes. The project emulates a target trial using observational data from the UK Household Longitudinal Study (UKHLS) to estimate the causal effect of this transition on physical health (SF-12 PCS), mental health (SF-12 MCS), and overall health-related quality of life (EQ-5D).
 
 The analysis follows a rigorous, multi-stage approach, including:
